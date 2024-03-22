@@ -1,0 +1,36 @@
+/* Navbar */
+
+nav {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(132, 130, 79, 0.294);
+}
+.logo a {
+  font-size: 40px;
+  text-decoration: none;
+  color: #000000;
+}
+span {
+  color: #fc0000c6;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+  margin: 10px 15px;
+}
+.btn {
+  background: #56ccd2;
+  border-radius: 6px;
+  padding: 9px 25px;
+  font-size: 18px;
+}
+.login {
+  background: #56ccd2;
+  margin-right: 15px;
+  font-size: 18px;
+  border-radius: 6px;
+  padding: 9px 25px;
+  font-size: 18px;
+}
